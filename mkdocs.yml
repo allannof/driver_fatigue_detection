@@ -1,0 +1,17 @@
+site_name: Made With ML
+repo_url: https://github.com/davbuf/driver_fatigue_detection
+nav:
+  - mlops:
+    - data: mlops/data.md
+    - models: mlops/models.md
+    - train: mlops/train.md
+    - tune: mlops/tune.md
+    - evaluate: mlops/evaluate.md
+    - predict: mlops/predict.md
+    - serve: mlops/serve.md
+    - utils: mlops/utils.md
+theme: readthedocs
+plugins:
+  - mkdocstrings
+watch:
+  - .  # reload docs for any file changes
