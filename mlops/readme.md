@@ -23,7 +23,7 @@ python train.py \
     --experiment-name "$EXPERIMENT_NAME" \
     --dataset-loc "$DATASET_LOC" \
     --train-loop-config "$TRAIN_LOOP_CONFIG" \
-    --num_samples 1000 \
+    --num-samples 1000 \
     --num-workers 4 \
     --cpu-per-worker 1 \
     --gpu-per-worker 0 \
