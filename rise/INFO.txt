@@ -1,0 +1,11 @@
+# Info about the UTA-RLDD dataset. Don't take framenumbers too literally, can be from data cropped at the beginning of video.
+
+# Format for events used below below
+# Participant, Video, Frames
+
+# eyes closed for prolonged persiods:
+# 5.0, 10, Towards the end/middle
+
+# yawning (does not include all):
+# 1.0, 10, [3000, 6000, 11000]
+# 6.0, 10, [3000, 4000, 7000]
