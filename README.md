@@ -1,3 +1,3 @@
 # driver_fatigue_detection
 
-DAIS Project
+This is a fork of David Buffonis work on the DAIS 7.3 demonstrator. DAIS project participants can collaborate in this fork.
